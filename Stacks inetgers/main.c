@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define SIZE 25
+#define SIZE 20
 int data[SIZE] ;
 int top = -1;
 
@@ -56,3 +56,4 @@ int main()
     }
     return 0 ;
 }
+
