@@ -22,16 +22,16 @@ char pop(STACK* s){
 		return s->data[(s->top)--] ;
 }
 
-void display(STACK s) {
-    if (s.top == -1) {
-        printf("Stack is empty\n");
-    } else {
-        printf("Stack contents (top to bottom):\n");
-        for (int i = s.top; i >= 0; i--) {
-            printf("%c\n", s.data[i]);
-        }
-    }
-}
+//void display(STACK s) {
+//    if (s.top == -1) {
+//        printf("Stack is empty\n");
+ //   } else {
+//        printf("Stack contents (top to bottom):\n");
+ //       for (int i = s.top; i >= 0; i--) {
+  //          printf("%c\n", s.data[i]);
+  //      }
+ //   }
+//}
 
 
 
