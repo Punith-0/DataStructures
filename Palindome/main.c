@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define SIZE 20
+#define SIZE 25
 struct stack{
 	int top ;
 	char data[SIZE];
@@ -66,3 +66,4 @@ int main(){
 	else
 		printf("\nNot an Palindrome sequence");
 }
+
