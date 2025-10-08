@@ -39,7 +39,7 @@ void display(QUEUE q){
 	else{
 		printf("\nThe queue elements are:\n");
 		for(i = q.f ; i <= q.r ;i++)
-			printf("%d\n" , q.data[i]);
+			printf("\n%d\n" , q.data[i]);
 	}
 }
 
@@ -71,3 +71,4 @@ int main(){
 	}
 	return 0;
 }
+
