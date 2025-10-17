@@ -1,1 +1,2 @@
-
+This program calculates the Greatest Common Divisor (GCD) of two integers using Euclid’s algorithm. It demonstrates recursion, efficient mathematical computation, and the practical use of functions in C.
+Key Concepts: Recursion, mathematical logic, function calls, integer arithmetic.
