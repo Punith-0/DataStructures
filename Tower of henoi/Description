@@ -1,1 +1,2 @@
-
+This program solves the Tower of Hanoi problem recursively. It is a classic recursion example that illustrates how large problems can be broken down into smaller subproblems.
+Key Concepts: Recursion, problem decomposition, logical thinking, algorithmic patterns.
