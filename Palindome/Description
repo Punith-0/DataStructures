@@ -1,1 +1,2 @@
-
+This program checks whether a given string is a palindrome (reads the same forward and backward). It uses arrays and string manipulation in C, showcasing how to iterate over characters and apply logical conditions.
+Key Concepts: Arrays, string handling, loops, conditional logic, character comparison.
