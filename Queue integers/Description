@@ -1,1 +1,2 @@
-
+This program implements a queue for integers using arrays (linear queue). It demonstrates FIFO (First In, First Out) behavior and basic enqueue/dequeue operations.
+Key Concepts: Linear data structures, arrays, queue operations, dynamic memory handling.
