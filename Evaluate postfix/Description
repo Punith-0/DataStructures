@@ -1,1 +1,2 @@
-
+This program evaluates a postfix expression using a stack. It reads an expression in postfix notation and computes its result. This demonstrates stack usage in computation and real-world application of data structures.
+Key Concepts: Stacks, postfix evaluation, arithmetic operations, algorithmic thinking.
