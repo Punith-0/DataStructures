@@ -1,1 +1,2 @@
-
+This program implements a stack for integers using arrays. It illustrates LIFO (Last In, First Out) behavior, push/pop operations, and helps understand the stack concept in memory.
+Key Concepts: Linear data structures, arrays, stack operations, basic memory management.
