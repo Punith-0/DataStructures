@@ -1,1 +1,2 @@
-
+This program converts an infix expression (e.g., A + B) into a postfix expression (e.g., A B +) using a stack. It highlights the importance of operator precedence and stack-based expression evaluation.
+Key Concepts: Stacks, expression parsing, operator precedence, algorithms for expression evaluation.
