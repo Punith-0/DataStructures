@@ -1,0 +1,15 @@
+🧵 Singly Linked List: The One-Way Rollercoaster of Data
+Welcome to the Singly Linked List Simulator — where data rides in one direction and memory management is a thrill ride!
+This C program lets you:
+- 🚀 Insert nodes at the beginning (because why not start strong?)
+- 🐢 Insert nodes at the end (for those who like a slow build-up)
+- 🧹 Delete nodes from the beginning (clean slate vibes)
+- 💣 Delete nodes from the end (dramatic exits only)
+- 👀 Display the list (because visibility matters)
+Perfect for:
+- CS students who love pointers more than pizza
+- Debuggers who whisper sweet nothings to malloc
+- Anyone who thinks struct node is a lifestyle
+Warning: May cause sudden appreciation for memory allocation and a deep emotional bond with NULL.
+
+git clone https://github.com/Punith-0/DataStructures.git
