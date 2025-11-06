@@ -79,6 +79,4 @@ Learning DSA in C is like learning to swim by being dropped into the deep end �
 
 Stay tuned — more data structures and algorithms coming soon, one pointer bug at a time! 🧠💻
 
-Paste this into your `README.md` and it’ll look sharp and readable on GitHub. Want me to add badges, contributor credits, or a license section next?
 
-
