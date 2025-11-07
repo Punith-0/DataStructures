@@ -1,0 +1,16 @@
+ ## 🥞 Stack SLL: The Pancake Protocol of Data Structures
+Welcome to Stack SLL — where data goes in like pancakes and comes out like regret. This is a singly linked list implementation of a stack, built for those who believe in Last-In-First-Out and living dangerously with pointers.
+# 🍳 Features:
+- push() — Adds a new pancake to the top of the stack. Syrup not included.
+- pop() — Removes the top pancake. Hope you weren’t too attached.
+- display() — Shows you the current pancake pile. Warning: may induce hunger.
+🤹 Why Use This?
+Because arrays are too mainstream, and recursion is just stackception. This stack is handcrafted with malloc, love, and a mild fear of segmentation faults.
+## 🧠 Usage:
+# gcc stack.c -o stack
+# ./stack
+
+
+Then sit back and enjoy the chaos as you push and pop your way to enlightenment.
+🧹 Memory Management:
+## We clean up after ourselves. Every pop() frees memory, unlike your browser tabs.
