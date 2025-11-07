@@ -1,0 +1,16 @@
+🚌 Queue SLL: The Line You’ll Love to Wait In
+Welcome to Queue SLL — the data structure that believes in fairness, order, and making you wait your turn. This is a singly linked list implementation of a queue, built for those who think stacks are just too selfish.
+🎯 Features:
+- enqueue() — Adds a new passenger to the end of the line. No cutting allowed.
+- dequeue() — Removes the front passenger. Hope they enjoyed their ride.
+- display() — Shows everyone still waiting. Some have been here since the last reboot.
+🧃 Why Use This?
+Because life is a queue — you wait, you move, and eventually you get kicked out. This queue is built with pointers, patience, and just enough malloc to keep things interesting.
+🛠 How to Run:
+gcc queue.c -o queue
+./queue
+
+
+Then sit back and enjoy the FIFO fiesta.
+🧼 Memory Management:
+Every dequeue frees memory. Unlike your group chats, this queue doesn’t hold onto things forever.
