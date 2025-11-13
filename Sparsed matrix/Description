@@ -1,0 +1,20 @@
+🎩 Sparse Matrix Storage — Because Zeroes Deserve No Real Estate
+Welcome to the minimalist's dream in C programming: a sparse matrix implementation that politely evicts zeroes from memory and gives VIP treatment to non-zero elements using a doubly linked list. Why store what you don’t use? This code is the Marie Kondo of matrices — if it doesn’t spark data, it doesn’t get stored.
+
+🔧 What’s Inside?
+- A custom node struct with row, column, and data — plus a buddy system (next and prev) for smooth traversal.
+- insertend() function that adds non-zero elements like a bouncer at a club: zeroes don’t get in.
+- display() to show the exclusive guest list of non-zero entries.
+- displaymatrix() to reconstruct the full matrix — zeroes included, but only for show.
+
+🚀 How to Run
+gcc sparse_matrix.c -o sparse_matrix
+./sparse_matrix
+
+
+Then input your matrix dimensions and values. Zeroes will be silently judged and ignored.
+
+📚 Why Use This?
+- Great for learning linked lists, dynamic memory, and sparse data handling.
+- Perfect for students, educators, and anyone tired of bloated memory usage.
+- Bonus: It’s written in C, so you get to feel like a real systems programmer.
