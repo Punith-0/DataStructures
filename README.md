@@ -57,7 +57,7 @@ This project is a growing library of clean, modular, and well-commented C implem
 | `Stacks inetgers.c`       | Push, pop, and pray. A classic LIFO stack of integers          |
 | `Tower of henoi.c`        | Move disks, break minds. The OG brain-bender                   |
 | `infix to postfix.c`      | Converts infix to postfix so your compiler doesn’t cry         |
-! `BST.c`                   | A implementation Of Binary search Tree                         |
+| `BST.c`                   | A implementation Of Binary search Tree                         |
 
 ---
 
