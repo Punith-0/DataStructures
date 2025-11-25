@@ -1,0 +1,30 @@
+Binary Search Tree Implementation in C
+This repository contains a simple implementation of a Binary Search Tree (BST) in C. It demonstrates fundamental operations on BSTs including insertion, deletion, and traversal.
+🚀 Features
+- Insertion: Add new nodes into the BST while maintaining order.
+- Deletion: Remove nodes with proper handling of three cases:
+- Node with no children
+- Node with one child
+- Node with two children (using inorder successor)
+- Traversal Methods:
+- Preorder (Root → Left → Right)
+- Inorder (Left → Root → Right)
+- Postorder (Left → Right → Root)
+- Menu-driven program: Interactive console interface for performing operations.
+🛠️ How to Run
+- Clone the repository:
+git clone https://github.com/Punith-0/bst-c.git
+cd bst-c
+- Compile the program:
+gcc bst.c -o bst
+- Run the executable:
+./bst
+
+
+📂 File Structure
+- bst.c → Main source code implementing BST operations.
+- Future scope: Add unit tests, visualization, or balancing algorithms (AVL/Red-Black Trees).
+🎯 Learning Outcomes
+- Understand dynamic memory allocation with malloc and free.
+- Learn recursive tree traversal techniques.
+- Practice implementing deletion logic with inorder successor.
