@@ -16,7 +16,7 @@ This project is a growing library of clean, modular, and well-commented C implem
 
 | 🧩 **Category**            | **Topics**                        | **Status**       |
 |---------------------------|-----------------------------------|------------------|
-| Basics                    | Arrays, Linked Lists              | 🚧 In Progress   |
+| Basics                    | Arrays, Linked Lists              | ✅ Completed   |
 | Linear Structures         | Stacks, Queues                    | ✅ Completed      |
 | Non-Linear Structures     | Trees, Graphs                     | 🚧 In Progress   |
 | Algorithms                | Searching, Sorting                | 🚧 In Progress   |
