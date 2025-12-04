@@ -1,0 +1,20 @@
+Description:
+This project demonstrates a simple max-heap construction and extraction algorithm implemented in C. It provides a menu-driven interface where users can:
+- Create a heap from user-input elements
+- Extract the maximum element (root of the heap)
+- View the heap structure after each operation
+The program uses an array-based representation of the heap and applies the heapify() procedure to maintain the heap property after insertion and deletion.
+🔑 Features
+- Interactive console menu (Create Heap, Extract, Exit)
+- Efficient heap construction using bottom-up heapify
+- Extraction of the maximum element with automatic re-heapification
+- Supports up to 100 elements
+🛠️ Tech Stack
+- Language: C
+- Concepts: Heap Data Structure, Array Representation, Heapify Algorithm
+🚀 Usage
+- Compile the program:
+gcc heap.c -o heap
+- Run the executable:
+./heap
+- Follow the menu prompts to create and manipulate the heap.
