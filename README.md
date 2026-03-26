@@ -18,9 +18,9 @@ This project is a growing library of clean, modular, and well-commented C implem
 |---------------------------|-----------------------------------|------------------|
 | Basics                    | Arrays, Linked Lists              | ✅ Completed   |
 | Linear Structures         | Stacks, Queues                    | ✅ Completed      |
-| Non-Linear Structures     | Trees, Graphs                     | 🚧 In Progress   |
+| Non-Linear Structures     | Trees, Graphs                     | ✅ Completed   |
 | Algorithms                | Searching, Sorting                | 🚧 In Progress   |
-| Advanced Topics           | Hash Tables, Heaps, Graph Algos   | 🚧 In Progress   |
+| Advanced Topics           | Hash Tables, Heaps, Graph Algos   | May take Some Time..  |
 
 
 ---
@@ -36,9 +36,9 @@ This project is a growing library of clean, modular, and well-commented C implem
 
 ## 🧠 **TOPICS COVERED (AND COMING SOON)**
 
-- 📊 Arrays & Linked Lists  
+- 📊 Arrays & Linked Lists  (✅ Done and dusted)   
 - 🧱 Stacks & Queues (✅ Done and dusted)  
-- 🌳 Trees & Graphs  
+- 🌳 Trees & Graphs   (✅ Done and dusted)  
 - 🔍 Searching & Sorting Algorithms  
 - 🧮 Hashing, Heaps, and Dynamic Data Structures
 
@@ -60,6 +60,7 @@ This project is a growing library of clean, modular, and well-commented C implem
 | `BST.c`                   | A implementation Of Binary search Tree                         |
 
 ---
+I cannot write about File commited So please look into the repo for updated injuries .!!!!
 
 ## ⚙️ **HOW TO USE**
 
